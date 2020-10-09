@@ -1,18 +1,6 @@
 package bab3.chapter3;
 
-import static java.lang.Math.sqrt;
-import static java.lang.Math.pow;
-import static java.lang.Math.sin;
-import static java.lang.Math.cos;
-import static java.lang.Math.tan;
-import static java.lang.Math.atan;
-import static java.lang.Math.atan2;
-import static java.lang.Math.exp;
-import static java.lang.Math.log;
-import static java.lang.Math.log10;
-import static java.lang.Math.PI;
-import static java.lang.Math.E;
-import static java.lang.Math.floorMod;
+import static java.lang.Math.*;
 
 public class MathematicalFunctions2 {
     public static void main(String[] args) {
