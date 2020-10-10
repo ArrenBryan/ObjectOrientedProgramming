@@ -7,7 +7,7 @@ public class BasicOperators {
         System.out.println("Integer % 3 = " + iniInteger);
 
         iniInteger += (int) 3.5;
-        System.out.println("Integer % 3 = " + iniInteger + "\n");
+        System.out.println("Integer = " + iniInteger + "\n");
 
         int a = 0;
         int b = 3;
@@ -32,10 +32,10 @@ public class BasicOperators {
          * Langkah-langkah yang dilakukan:
          * 1. a = 0, b = 3,
          * 2. b = b + 2, sehingga b = 5
-         * 4. a = a + 1, sehingga a = 1,
-         * 5. b = b + a, sehingga b = 6,
-         * 6. a = a + 1, sehingga a = 2.
-         * 3. b = b + a, sehingga b = 8,
+         * 3. a = a + 1, sehingga a = 1,
+         * 4. b = b + a, sehingga b = 6,
+         * 5. a = a + 1, sehingga a = 2.
+         * 6. b = b + a, sehingga b = 8,
          */
         b += 2 + ++a + ++a;
         System.out.println("a = " + a);
