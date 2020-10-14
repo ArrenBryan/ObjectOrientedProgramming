@@ -1,4 +1,4 @@
-package bab3.chapter3;
+package bab3.chapter4;
 
 public class Constants1 {
     public static void main(String[] args) {
