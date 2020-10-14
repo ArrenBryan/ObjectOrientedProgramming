@@ -1,4 +1,4 @@
-package bab3.chapter7;
+package bab3.chapter8;
 
 import java.util.*;
 
