@@ -1,4 +1,4 @@
-package bab3.chapter3;
+package bab3.chapter6;
 
 public class TheStringAPI {
 
